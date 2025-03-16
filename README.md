@@ -40,7 +40,9 @@ Actualmente esta completado, sin embargo, se puede realizar mejoras.
   ![image](https://github.com/user-attachments/assets/6799cbeb-6515-4c6f-affb-ced1c472c269)
 
 ## [Acceso al proyecto](#acceso-proyecto)
-Accede al proyecto aquí: 
+
+Accede al proyecto aquí: https://catiwinki.github.io/Challege-amigo-secreto/
+
 
 
 
